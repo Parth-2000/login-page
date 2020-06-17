@@ -1,16 +1,18 @@
 # loginapp
 
-A new Flutter project.
+A new Flutter Login Page UI with Animation.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Hello Guys,
+It is Login Page UI with Animation in Flutter.
+Here there is a background image on which a blacklayer is put, 
+animated logo pop up animation and Form having feild for Email and Password
+with Login Button.
 
-A few resources to get you started if this is your first Flutter project:
+## TODO
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Please make a folder name images. And put an image which you wanted as background.
+The code contains todo please implement before running app.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks,
